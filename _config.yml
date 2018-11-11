@@ -10,14 +10,14 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cseas | blog"
-title_separator          : "-"
+title                    : "asingh.ml | blog"
+title_separator          : "|"
 name                     : "Abhijeet Singh"
 description              : "Microsoft Student Partner"
 url                      : "https://cseas.github.io"
@@ -27,7 +27,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # "discourse" # "facebook", "google-plus", "staticman", "staticman_v2", "custom"
+  provider               : "facebook" # "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "custom"
   disqus:
     shortname            : cseas # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
