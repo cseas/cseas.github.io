@@ -8,3 +8,15 @@ _site/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+*.gem
+*.sublime-project
+*.sublime-workspace
+.bundle
+.DS_Store
+_asset_bundler_cache
+codekit-config.json
+example/_site
+Gemfile.lock
+node_modules
+npm-debug.log*
