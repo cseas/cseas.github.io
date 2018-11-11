@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /_posts/
+    url: /posts/
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/thatniceman
   - title: "GitHub"
