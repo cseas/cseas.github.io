@@ -14,8 +14,8 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache"
 gem "jekyll-remote-theme"
 gem "jekyll-archives"
 
