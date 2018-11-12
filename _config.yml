@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "asingh.ml | blog"
+title                    : "absingh.com | blog"
 title_separator          : "|"
 name                     : "Abhijeet Singh"
 description              : "Microsoft Student Partner | Developer"
-url                      : "https://www.asingh.ml"
+url                      : "https://www.absingh.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cseas/cseas.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -112,7 +112,7 @@ author:
       url: mailto:contact.abhijeetsingh@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.asingh.ml"
+      url: "https://www.absingh.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cse_as"
