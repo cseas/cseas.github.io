@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "asingh.ml | blog"
 title_separator          : "|"
 name                     : "Abhijeet Singh"
-description              : "Microsoft Student Partner"
+description              : "Microsoft Student Partner | Developer"
 url                      : "https://www.asingh.ml"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cseas/cseas.github.io"
@@ -290,3 +290,16 @@ defaults:
       comments: true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
