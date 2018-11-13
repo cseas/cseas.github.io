@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "absingh.com"
 title_separator          : "|"
 name                     : "Abhijeet Singh"
-description              : "Microsoft Student Partner | Developer"
+description              : "Developer & Designer"
 url                      : "https://www.absingh.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cseas/cseas.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Abhijeet Singh"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Microsoft Student Partner"
+  bio              : "Developer & Designer"
   location         : "Bengaluru, India"
   email            :
   links:
