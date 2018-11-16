@@ -6,12 +6,12 @@ toc_sticky: true
 title: Azure101
 header:
   image: /assets/images/azurestatic/header.jpg
-  teaser: /assets/images/azurestatic/azure-teaser.jpg
+  teaser: /assets/images/azurestatic/azure-teaser.png
 excerpt: Getting started with Azure.
 
 sidebar:
   - title: "Microsoft Azure"
-    image: /assets/images/azurestatic/azure-teaser.jpg
+    image: /assets/images/azurestatic/azure-teaser.png
     image_alt: "image"
     text: "Cloud Computing"
   - title: "Getting Started"
