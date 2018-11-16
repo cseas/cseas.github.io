@@ -3,7 +3,7 @@ layout: single
 author: Abhijeet Singh
 toc: true
 toc_sticky: true
-title: NASA Space Apps 2018
+title: NASA Space Apps Challenge 2018
 header:
   image: /assets/images/spaceapps/header.jpg
   teaser: /assets/images/spaceapps/nasa-teaser.jpg
