@@ -12,11 +12,6 @@
   color: #fff;
 }
 
-::selection {
-  background-color: #f53f51;
-  color: #fff;
-}
-
 ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
   color: #777777;
